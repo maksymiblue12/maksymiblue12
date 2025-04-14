@@ -1,2 +1,2 @@
 - 👋 Hi, I’m [@maksblack12](https://github.com/maksblack12)
-- 🌱 I’m currently learning Python (I'm really bad at it)
+- 🌱 I’m currently learning Python
