@@ -1,2 +1,2 @@
-- 👋 Hi, I’m [@maksblack12](https://github.com/maksblack12)
+- 👋 Hi, I’m [@maksymiblue12](https://github.com/maksymiblue12)
 - 🌱 I’m currently learning Python
